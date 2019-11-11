@@ -1,5 +1,5 @@
 ---
-name: Yancel Moises
+name: Yancel Moises Salinas Gomez
 topics: Cloud, Python, Node y Linux
 picture: https://miro.medium.com/fit/c/256/256/0*DkCQvZ0yStzc0NWg.
 email: sagoyanfisic1@gmail.com
